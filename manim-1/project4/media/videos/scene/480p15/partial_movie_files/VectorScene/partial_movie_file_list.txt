@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/wadela/source/repos/manim/project4/media/videos/scene/480p15/partial_movie_files/VectorScene/4266129954_36632488_899302149.mp4'

@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/wadela/source/repos/manim/project/media/videos/scene/480p15/partial_movie_files/RotatingVector/1995773871_1636166871_3459541543.mp4'
+file 'file:C:/Users/wadela/source/repos/manim/project/media/videos/scene/480p15/partial_movie_files/RotatingVector/572780859_2664362471_1587397678.mp4'
+file 'file:C:/Users/wadela/source/repos/manim/project/media/videos/scene/480p15/partial_movie_files/RotatingVector/572780859_1740919036_2791921704.mp4'
